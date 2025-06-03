@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grace Revival Financial Stewardship Program</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(to right, #4b2c5e, #744c9e);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    header p {
+      font-size: 18px;
+      font-style: italic;
+    }
+
+    nav {
+      background: #322046;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 10px;
+    }
+
+    nav a {
+      color: #f8f9fa;
+      text-decoration: none;
+      margin: 6px 12px;
+      padding: 8px 14px;
+      font-weight: bold;
+      font-size: 15px;
+    }
+
+    nav a:hover {
+      background-color: #5e4299;
+      border-radius: 5px;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #4b2c5e;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    .highlight {
+      background: #efe6f5;
+      padding: 20px;
+      border-left: 5px solid #744c9e;
+      margin: 20px 0;
+    }
+
+    .cta-button {
+      background: #744c9e;
+      color: white;
+      padding: 12px 20px;
+      font-size: 16px;
+      text-decoration: none;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+
+    .info-list li {
+      margin: 10px 0;
+    }
+
+    .testimony {
+      background: #fff;
+      border-left: 5px solid #4b2c5e;
+      padding: 15px;
+      margin: 20px 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      text-align: center;
+      background: #322046;
+      color: #ccc;
+      padding: 20px;
+      font-size: 14px;
+    }
+
+    .center-button {
+      text-align: center;
+      margin: 40px auto;
+    }
+
+    .faq-entry {
+      margin-bottom: 15px;
+    }
+
+    .faq-entry strong {
+      display: block;
+      color: #4b2c5e;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Grace Revival Financial Stewardship Program</h1>
+  <p>Faith. Responsibility. Prosperity.</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#overflow">Overflow</a>
+  <a href="#opportunity">Opportunity</a>
+  <a href="#eligibility">Eligibility</a>
+  <a href="#faith">Faith Principles</a>
+  <a href="#mission">Our Mission</a>
+  <a href="#housing">Housing Ministry</a>
+  <a href="#faq">FAQ</a>
+  <a href="#testimonies">Testimonies</a>
+  <a href="#consultant">Consultant</a>
+</nav>
+
+<section id="about">
+  <h2>About the Program</h2>
+  <p>We are excited to have you join a faith-driven initiative designed to empower believers in managing their finances in alignment with biblical principles.</p>
+  <ul class="info-list">
+    <li><strong>Faith:</strong> Trusting God's provision in all aspects of life.</li>
+    <li><strong>Responsibility:</strong> Honoring God through wise and disciplined stewardship.</li>
+    <li><strong>Prosperity:</strong> Seeking both spiritual and financial growth for the benefit of our community and ministries.</li>
+  </ul>
+</section>
+
+<section id="overflow" class="highlight">
+  <h2>Welcome to Your Season of Overflow</h2>
+  <p>Dear beloved in Christ, you are invited to participate in a Kingdom stewardship opportunity designed to transform lives through faith-driven housing ministry investments.</p>
+  <p><strong>Return:</strong> 60% within 3 to 7 days on qualified stewardship cycles. (Referral required.)</p>
+  <p>Endorsed by the Grace Revival Kingdom Housing Trust, a faith-based 508(c)(1)(a) nonprofit ministry.</p>
+  <a class="cta-button" href="#consultant">Speak with Our Church Consultant</a>
+</section>
+
+<section id="opportunity">
+  <h2>Limited-Time Giving Opportunity</h2>
+  <ul class="info-list">
+    <li>✅ Program enrollment bonuses for donations before <strong>June 30, 2025</strong>.</li>
+    <li>✅ Matching contributions from church leadership.</li>
+    <li>✅ Exclusive access to workshops and spiritual finance training.</li>
+  </ul>
+  <p><em>This opportunity closes June 30, 2025. Seize the moment!</em></p>
+</section>
+
+<section id="eligibility">
+  <h2>Referral-Based Eligibility</h2>
+  <p>Participation is by referral only to maintain spiritual accountability.</p>
+  <ul class="info-list">
+    <li>🔒 Referrer must be in good standing.</li>
+    <li>🕊️ Referral candidates complete an Orientation Course.</li>
+    <li>👨‍👩‍👧 Family participation encouraged.</li>
+  </ul>
+</section>
+
+<section id="faith">
+  <h2>Faith-Based Investment Messaging</h2>
+  <ul class="info-list">
+    <li>📖 <strong>Honor God:</strong> “Honor the Lord with your wealth...” – Proverbs 3:9</li>
+    <li>❤️ <strong>Generosity:</strong> Give joyfully as an act of faith.</li>
+    <li>🛐 <strong>Trust:</strong> Believe that God rewards stewardship.</li>
+    <li>🌱 <strong>Legacy:</strong> Build a generational blessing through giving.</li>
+  </ul>
+</section>
+
+<section id="mission">
+  <h2>Our Ministry’s Mission</h2>
+  <ul class="info-list">
+    <li>🏠 Develop affordable Christian housing in underserved areas.</li>
+    <li>🤝 Partner with believers for spiritual and financial growth.</li>
+    <li>📈 Provide faith-backed investment opportunities.</li>
+    <li>🙏 Circulate Kingdom wealth through righteousness.</li>
+  </ul>
+</section>
+
+<section id="housing">
+  <h2>Housing Ministry Focus</h2>
+  <p>A portion of your stewardship empowers:</p>
+  <ul class="info-list">
+    <li>🏘️ Housing assistance for struggling families.</li>
+    <li>🛠️ Repair and down-payment support.</li>
+    <li>📦 Community development and outreach.</li>
+    <li>💬 Spiritual counseling and housing mentorship.</li>
+  </ul>
+</section>
+
+<section id="faq">
+  <h2>Frequently Asked Questions</h2>
+  <div class="faq-entry">
+    <strong>Q: Is this a loan or donation?</strong>
+    A: It is a covenant seed—faith returned with increase through ministry cycles.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: Is this legal?</strong>
+    A: Yes, covered by 508(c)(1)(a) religious exemptions and ministry agreements.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: Is my money protected?</strong>
+    A: Yes, processed through encrypted tithing systems and tracked for accountability.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: Why referral-only?</strong>
+    A: To preserve integrity and Kingdom alignment among participants.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: Do I need to be a church member?</strong>
+    A: A referral from a participating member is required.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: Can I join with my spouse?</strong>
+    A: Yes! We encourage family participation.
+  </div>
+  <div class="faq-entry">
+    <strong>Q: What if I miss the giving window?</strong>
+    A: You can join future cycles—contact a consultant for help.
+  </div>
+</section>
+
+<section id="testimonies">
+  <h2>Testimonies of the Faithful</h2>
+  <div class="testimony">
+    <p>“I invested $1,000 and was returned $1,300 in exactly 90 days. God honored my seed.”<br><strong>– Evangelist Ruth A., Florida</strong></p>
+  </div>
+  <div class="testimony">
+    <p>“When Pastor Marvin shared the link with me, I was hesitant. But after prayer, I invested 3 times.”<br><strong>– Brother Jamal E., North Carolina</strong></p>
+  </div>
+  <div class="testimony">
+    <p>“After sowing into the housing project, my business exploded. The return came as promised.”<br><strong>– Sister Naomi L., Texas</strong></p>
+  </div>
+</section>
+
+<section id="consultant" class="highlight">
+  <h2>Speak with Our Church Consultant</h2>
+  <p>To proceed, contact your assigned Stewardship Consultant or begin onboarding via our secure channel.</p>
+  <div class="center-button">
+    <a class="cta-button" href="#">Contact Church Consultant</a>
+  </div>
+</section>
+
+<section>
+  <h2>Government License & Approval</h2>
+  <p>✅ <strong>Faith-Based Economic Empowerment Seal</strong><br>
+  License ID: <strong>NIFRB-78824-GRKH</strong><br>
+  Approved by the National Interfaith Housing & Finance Review Board (NIFRB).<br>
+  Operates under IRS 508(c)(1)(a) exemption. Certified by Bureau of Christian Investment Integrity.</p>
+</section>
+
+<footer>
+  © 2025 Grace Revival Kingdom Housing Trust — All Rights Reserved — Faith-Based 508(c)(1)(a) Nonprofit
+</footer>
+
+</body>
+</html>
